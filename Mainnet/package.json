@@ -1,0 +1,17 @@
+{
+  "name": "mainnet",
+  "version": "1.0.0",
+  "description": "Everything you need to join the Nibiru Mainnet.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
+  }
+}
